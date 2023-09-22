@@ -3,11 +3,11 @@
 
 String printPartOfWorld(String name,int start, int slut){
  
-  return name = name.substring(start,slut);
+  return name = name.substring(start,start+slut);
   }
   
   void setup(){
-   println(printPartOfWorld("København",1,5)); 
+   println(printPartOfWorld("København",1,4)); 
     
     
   }
