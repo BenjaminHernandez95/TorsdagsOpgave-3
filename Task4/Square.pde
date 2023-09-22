@@ -9,6 +9,7 @@ Square(int tempXpos, int tempYpos){
   }
   
   void display(){
+    rectMode(CENTER);
    rect(xpos,ypos,50,50);
 
       
