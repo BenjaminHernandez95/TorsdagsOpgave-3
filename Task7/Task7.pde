@@ -1,4 +1,4 @@
-
+/*
 void setup(){
 
 ArrayList <Integer> integers = new ArrayList();
@@ -42,4 +42,4 @@ float intgersArgMymethod(ArrayList<Integer> integers) {
  }
  return result/integers.size();
  
-}
+}*/

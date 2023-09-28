@@ -1,8 +1,8 @@
-/*boolean jobsDone = true;
+/*boolean jobsDone = false;
 
 void setup()
 {
-    if (isJobDone())
+    if (true)
     {
         println("Job's done!");   
     }

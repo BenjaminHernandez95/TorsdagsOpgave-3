@@ -1,4 +1,4 @@
-boolean jobsDone = true;
+/*boolean jobsDone = true;
 
 void setup()
 {
@@ -43,4 +43,4 @@ void drawGrid(int numberOfHorizontalCells, int numberOfVerticalCells, int cellSi
             
         }
     }
-}
+} */
